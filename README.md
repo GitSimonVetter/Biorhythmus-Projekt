@@ -3,7 +3,7 @@
 
 Biorhythmus is a tool to generate data based on your age(birthdate). 
 
-Biorhythmus was a school projekt, the formula is a demonstration of my skills. The Code is written in C# and displayed language is german.
+Biorhythmus was a school projekt, the formula is a demonstration. The Code is written in C# and displayed language is german.
 
 
 
